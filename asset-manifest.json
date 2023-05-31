@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RadPlants/static/css/main.a2e9e91a.css",
+    "main.js": "/RadPlants/static/js/main.f1f18865.js",
+    "static/js/787.3c427ab0.chunk.js": "/RadPlants/static/js/787.3c427ab0.chunk.js",
+    "index.html": "/RadPlants/index.html",
+    "main.a2e9e91a.css.map": "/RadPlants/static/css/main.a2e9e91a.css.map",
+    "main.f1f18865.js.map": "/RadPlants/static/js/main.f1f18865.js.map",
+    "787.3c427ab0.chunk.js.map": "/RadPlants/static/js/787.3c427ab0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2e9e91a.css",
+    "static/js/main.f1f18865.js"
+  ]
+}
